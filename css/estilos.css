@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+
+body {
+  color: #333333;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  width: 500px;
+  font-size: 50px;
+}
+main {
+  margin-left: 120px;
+  margin-bottom: 80px;
+}
+botton {
+  font-size: 18px;
+  width: 400px;
+  height: 60px;
+  padding: 5px;
+}
+h3 {
+  color: white;
+  font-size: 60px;
+}
+footer button {
+  background-color: #ee9323;
+  width: 100%;
+  height: 350px;
+  padding: 20px;
+  text-align: center;
+}
